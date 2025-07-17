@@ -55,3 +55,11 @@ To see Postgres Interface:
 psql -U postgres -d postgres -h localhost
 SELECT * FROM pos
 ```
+
+#### Postgres
+
+To see Postgres Interface:
+```shell
+psql -U postgres -d postgres -h localhost
+SELECT * FROM pos
+```
